@@ -1,0 +1,3 @@
+2026-11-14T10:00:01Z ERROR 502 Bad Gateway from upstream
+2026-11-14T10:00:02Z ERROR Connection refused 10.0.2.8:8080
+2026-11-14T10:00:03Z WARN health check failed for target i-0abc123
